@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0bf4bb43deaadad4aa4f121fd4ef959c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159363
+  packageName: POLY STYLE - Medieval Village
+  packageVersion: 1.2
+  assetPath: Assets/ASTROFISH_GAMES/MEDIEVAL_SERIES/POLYSTYLE_MEDIEVAL_VILLAGE/Astrofish_Common/C_Assets/C_Scripts/SimpleCameraController.cs
+  uploadId: 357411
