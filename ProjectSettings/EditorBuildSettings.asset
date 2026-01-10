@@ -5,9 +5,18 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/_MuseumBuilder/Scenes/Levels/Init.unity
+    guid: a9138c33b7c289049baa2c0ab5e64fde
+  - enabled: 1
+    path: Assets/_MuseumBuilder/Scenes/Levels/Menu.unity
+    guid: 30801fc73d195d145b0e0909dfd797a6
+  - enabled: 1
+    path: Assets/_MuseumBuilder/Scenes/Levels/Loading.unity
+    guid: 0cc5db34e76c235448113d65a76b6e39
+  - enabled: 1
+    path: Assets/_MuseumBuilder/Scenes/Levels/Game.unity
+    guid: 25a9f0db17448e94abbc6c48f194dfa4
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
