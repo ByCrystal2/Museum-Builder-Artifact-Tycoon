@@ -18,8 +18,3 @@ public class GameManager : PersistentSingleton<GameManager>
     public PlayerGander GetPlayerGender() => _playerGander;
 
 }
-public enum PlayerGander
-{
-    Male,
-    Female
-}
